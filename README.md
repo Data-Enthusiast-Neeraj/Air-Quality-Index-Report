@@ -1,6 +1,6 @@
 # Air-Quality-Index-Report
 
-🌿## **Air Quality Index (AQI) Dashboard**
+## 🌿 **Air Quality Index (AQI) Dashboard**
 
 
 
